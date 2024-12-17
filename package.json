@@ -1,0 +1,24 @@
+{
+  "name": "chatbot_module",
+  "version": "1.0.0",
+  "description": "Un module qui agit comme un chatbot de base, capable de répondre à des questions simples avec des règles définies à l'avance.",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "Bienvenue dans le chatbot ! Tapez 'exit' pour quitter."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymabchour/chatBotModule.git"
+  },
+  "keywords": [
+    "chatbot",
+    "nodejs",
+    "module"
+  ],
+  "author": "Youssef Mabchour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymabchour/chatBotModule/issues"
+  },
+  "homepage": "https://github.com/ymabchour/chatBotModule#readme"
+}

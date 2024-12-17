@@ -1,0 +1,19 @@
+{
+  "quelle est la capitale de la france ?": "Paris",
+  "quelle est la couleur du ciel ?": "Le ciel est souvent bleu pendant la journée à cause de la diffusion de la lumière.",
+  "combien de pattes a une araignée ?": "Une araignée a huit pattes.",
+  "quel est l'animal le plus rapide ?": "Le guépard est l'animal terrestre le plus rapide, avec une vitesse pouvant atteindre 112 km/h.",
+  "quelle est la capitale de l'espagne ?": "La capitale de l’Espagne est Madrid.",
+  "qui a inventé l’ampoule électrique ?": "L'ampoule a été inventée par Thomas Edison.",
+  "quelle est la langue la plus parlée au monde ?": "La langue la plus parlée est le chinois mandarin.",
+  "combien font 5 + 3 ?": "5 + 3 = 8.",
+  "quelle est la racine carrée de 16 ?": "La racine carrée de 16 est 4.",
+  "quel temps fait-il aujourd'hui ?": "Je ne peux pas vérifier le temps, mais il vaut mieux jeter un coup d’œil par la fenêtre !",
+  "est-ce qu’il va pleuvoir demain ?": "Je ne suis pas météorologue, mais n’oubliez pas votre parapluie, juste au cas où.",
+  "qu'est-ce que node.js ?": "Node.js est une plateforme JavaScript côté serveur qui permet d'exécuter du code JavaScript hors d’un navigateur.",
+  "quel est le langage de programmation le plus populaire ?": "Le langage le plus populaire est souvent JavaScript, selon les enquêtes Stack Overflow.",
+  "à quoi sert le module `fs` dans node.js ?": "Le module `fs` permet de travailler avec le système de fichiers, comme lire ou écrire dans des fichiers.",
+  "raconte-moi une blague.": "Pourquoi les développeurs préfèrent-ils le thé ? Parce qu'ils n'aiment pas déboguer du café !",
+  "pourquoi les ordinateurs n’aiment-ils pas le chaud ?": "Parce qu’ils préfèrent rester cool !"
+
+}
