@@ -15,12 +15,13 @@ Un simple module Node.js pour créer un chatbot basé sur des règles. Ce chatbo
 
 1. **Cloner le dépôt** :
    git clone https://github.com/ymabchour/chatBotModule.git
+
    cd chatBotModule
    
-2.  **Installer les dépendances**
+3.  **Installer les dépendances**
     npm install
    
-3.  **Lancer le chatbot**
+4.  **Lancer le chatbot**
     node chatbot.js
     
 ----
@@ -55,8 +56,11 @@ Exemple de dialogue
 ## Structure du projet
 .
 ├── chatbot.js       # Le module principal du chatbot
+
 ├── rules.json       # Fichier JSON pour sauvegarder les règles
+
 ├── package.json     # Fichier npm avec les dépendances
+
 └── README.md        # Documentation du projet
 
 ## Auteur
